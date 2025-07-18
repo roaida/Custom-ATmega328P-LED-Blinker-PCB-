@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ASUS\Downloads\Embedded\Altium\LED Blinker\LED_B.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=led_b.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=led_b-rectholes.txt|DrillLayers=gtl,gbl

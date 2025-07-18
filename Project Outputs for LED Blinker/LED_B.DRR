@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LED_B.PcbDoc   7/18/2025  10:08:10 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LED_B.TXT
+ASCII RectHoles File : LED_B-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.762mm (30mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T2      0.8mm (31mil)                                             Rectangle         3         PTH        28.82mm (1.13inch)
+T3      0.9mm (35mil)                                             Round             28        PTH        73.66mm (2.90inch)
+T4      1mm (39mil)                                               Round             9         PTH        37.20mm (1.46inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              41
+
+Total Processing Time (hh:mm:ss) : 00:00:00
